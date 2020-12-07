@@ -15,7 +15,7 @@ For the given input  image file i4_test.png that median filter is applied and th
 
 
 Problem Statement 2: 
-SD01Q02_median.cpp
+SD01Q02_unzip.cpp
 
 Do unzip operation on archive file:
 Write a C++ code to unzip the archive file, using C++ library.
